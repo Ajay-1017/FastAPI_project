@@ -5,3 +5,10 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
+
+# dot env
+.env
+
+# database file
+*.db
+*.sqlite3

@@ -1,0 +1,18 @@
+2026-08-12 14:38:07,106 | INFO | main | Home endpoint was called
+2026-08-12 14:52:35,961 | INFO | main | Home endpoint was called
+2026-08-12 17:19:32,487 | INFO | main | Home endpoint was called
+2026-08-12 17:20:29,592 | INFO | routers.products | Product 'mouse' successfully created
+2026-08-12 17:20:31,563 | WARNING | routers.products | Product creation rejected : Product mouse already exists
+2026-08-12 17:54:16,546 | INFO | main | Home endpoint was called
+2026-08-12 17:54:39,013 | INFO | routers.products | Product 'iPhone 15' successfully created
+2026-08-12 17:54:49,271 | WARNING | routers.products | Product creation rejected : Product iPhone 15 already exists
+2026-08-12 17:55:23,474 | WARNING | routers.products |  Get Product rejected : Product id: 9999 not exists 
+2026-08-12 17:55:59,916 | INFO | routers.products | Product 'None' successfully updated
+2026-08-12 17:56:16,302 | INFO | routers.products | Product 'iPhone 15 Pro' successfully updated
+2026-08-12 17:56:29,159 | INFO | routers.products | Product 'iPhone 15 Pro' successfully updated
+2026-08-12 17:56:45,788 | INFO | routers.products | Product 'iPhone 15 Pro' successfully deleted
+2026-08-12 17:56:49,612 | WARNING | routers.products | Product deletion rejected : Product id: 1 not exists 
+2026-08-12 19:12:35,124 | INFO | main | Home endpoint was called
+2026-08-12 19:12:38,682 | INFO | main | Home endpoint was called
+2026-08-12 19:15:01,984 | INFO | routers.products | Product 'iPhone 15' successfully deleted
+2026-08-12 19:15:21,701 | INFO | routers.products | Product 'Keyboard' successfully created

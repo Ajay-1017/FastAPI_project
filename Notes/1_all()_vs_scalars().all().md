@@ -1,4 +1,3 @@
-
 # SQLAlchemy `result.all()` vs `result.scalars().all()`
 
 ## `result.all()`
@@ -79,8 +78,7 @@ Output:
 
 ## Rule to Remember
 
-
-| Query                                      | Method            |
+| Query                                        | Method              |
 | -------------------------------------------- | ------------------- |
 | `select(Product)`                          | `scalars().all()` |
 | `select(Product.product_name)`             | `scalars().all()` |
